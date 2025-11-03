@@ -300,8 +300,8 @@ const Donate = () => {
                 <option value="">Select a category</option>
                 <option value="food">Food</option>
                 <option value="clothes">Clothes</option>
-                <option value="education">Education</option>
-                <option value="others">Others</option>
+                {/* <option value="education">Education</option>
+                <option value="others">Others</option> */}
               </select>
             </div>
 
